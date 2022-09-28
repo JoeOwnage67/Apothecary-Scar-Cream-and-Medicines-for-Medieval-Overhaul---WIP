@@ -1,6 +1,6 @@
 
 
-Original Apothercary(Continued) MIT License
+Original Apothecary(Continued) MIT License
 
 Copyright (c) 2020 Mlie
 
