@@ -124,7 +124,9 @@
       <AYAloeCream>1</AYAloeCream>
     </products>
     <recipeUsers>
-      <li>AYApothecaryTable</li>
+       <li>DankPyon_Workbench</li>
+      <li>CraftingSpot</li>
+			<li>DrugLab</li>
     </recipeUsers>
     <skillRequirements>
       <Intellectual>4</Intellectual>
@@ -183,7 +185,9 @@
       <AYAloeCream>5</AYAloeCream>
     </products>
     <recipeUsers>
-      <li>AYApothecaryTable</li>
+       <li>DankPyon_Workbench</li>
+      <li>CraftingSpot</li>
+			<li>DrugLab</li>
     </recipeUsers>
     <skillRequirements>
       <Intellectual>5</Intellectual>
