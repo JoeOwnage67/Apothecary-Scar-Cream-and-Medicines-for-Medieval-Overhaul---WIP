@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
   
-  <!-- OintmentBase - applies to all child defs -->
+  <!-- Scar Cream -->
   <ThingDef ParentName="AYDrugOintmentBase">
     <defName>AYScarCream</defName>
     <label>Scar Cream</label>
