@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
+  
+  <!-- Aloe Oil -->
   <ThingDef ParentName="ResourceBase">
     <defName>AYAloeOil</defName>
     <label>Aloe Oil</label>
@@ -21,6 +23,8 @@
       <li>AYOils</li>
     </thingCategories>
   </ThingDef>
+  
+  <!-- Recipe -->
   <RecipeDef>
     <defName>MakeAYAloeOil</defName>
     <label>Make Aloe Oil</label>
@@ -52,13 +56,17 @@
       <AYAloeOil>1</AYAloeOil>
     </products>
     <recipeUsers>
-      <li>AYApothecaryTable</li>
+      <li>DankPyon_Workbench</li>
+      <li>CraftingSpot</li>
+			<li>DrugLab</li>
     </recipeUsers>
     <skillRequirements>
       <Cooking>4</Cooking>
     </skillRequirements>
     <researchPrerequisite>AYExtracts</researchPrerequisite>
   </RecipeDef>
+  
+  <!-- Bulk Recipe -->
   <RecipeDef>
     <defName>MakeBulkAYAloeOil</defName>
     <label>Make Aloe Oil in bulk</label>
@@ -90,7 +98,9 @@
       <AYAloeOil>5</AYAloeOil>
     </products>
     <recipeUsers>
-      <li>AYApothecaryTable</li>
+      <li>DankPyon_Workbench</li>
+      <li>CraftingSpot</li>
+			<li>DrugLab</li>
     </recipeUsers>
     <skillRequirements>
       <Cooking>4</Cooking>
