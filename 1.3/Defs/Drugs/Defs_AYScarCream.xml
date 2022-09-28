@@ -54,7 +54,7 @@
       <li Class="HediffCompProperties_SeverityPerDay">
         <severityPerDay>-0.95</severityPerDay>
       </li>
-      <li Class="Apothecary.HediffCompProperties_AYRegen">
+      <li Class="HediffCompProperties_AYRegen">
         <RegenHoursMin>8</RegenHoursMin>
         <RegenHoursMax>12</RegenHoursMax>
         <RegenHealVal>2</RegenHealVal>
@@ -134,7 +134,9 @@
       <AYScarCream>1</AYScarCream>
     </products>
     <recipeUsers>
-      <li>AYApothecaryTable</li>
+       <li>DankPyon_Workbench</li>
+      <li>CraftingSpot</li>
+			<li>DrugLab</li>
     </recipeUsers>
     <skillRequirements>
       <Intellectual>6</Intellectual>
@@ -202,7 +204,9 @@
       <AYScarCream>5</AYScarCream>
     </products>
     <recipeUsers>
-      <li>AYApothecaryTable</li>
+       <li>DankPyon_Workbench</li>
+      <li>CraftingSpot</li>
+			<li>DrugLab</li>
     </recipeUsers>
     <skillRequirements>
       <Intellectual>7</Intellectual>
