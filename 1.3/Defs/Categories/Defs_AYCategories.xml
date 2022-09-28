@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  
+  <ThingCategoryDef>
+    <defName>AYPlantMatter</defName>
+    <label>Apothecary plant matter</label>
+    <parent>PlantMatter</parent>
+    <iconPath>CatItems/AYPlantMatter</iconPath>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+  </ThingCategoryDef>
+  
+  <ThingCategoryDef>
+    <defName>AYHerbs</defName>
+    <label>Apothecary herbs</label>
+    <parent>PlantFoodRaw</parent>
+    <iconPath>CatItems/AYHerbs</iconPath>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+  </ThingCategoryDef>
+
+  <ThingCategoryDef>
+    <defName>AYOils</defName>
+    <label>Oil Extracts</label>
+    <parent>AYProducts</parent>
+    <iconPath>CatItems/AYOils</iconPath>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+  </ThingCategoryDef>
+
+  <!-- Drugs -->
+  <ThingCategoryDef>
+    <defName>AYDrugs</defName>
+    <label>Apothecary Drugs</label>
+    <parent>Drugs</parent>
+    <iconPath>CatItems/AYElixirs</iconPath>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+  </ThingCategoryDef>
+ 
+  
+  <ThingCategoryDef>
+    <defName>AYOintments</defName>
+    <label>Ointments</label>
+    <parent>AYDrugs</parent>
+    <iconPath>CatItems/AYOintments</iconPath>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+  </ThingCategoryDef>
+ 
+ 
+  
+  
+</Defs>
