@@ -53,7 +53,7 @@
       <li Class="HediffCompProperties_SeverityPerDay">
         <severityPerDay>-0.95</severityPerDay>
       </li>
-      <li Class="Apothecary.HediffCompProperties_AYRegen">
+      <li Class="HediffCompProperties_AYRegen">
         <RegenHoursMin>5</RegenHoursMin>
         <RegenHoursMax>6</RegenHoursMax>
         <RegenHealVal>3</RegenHealVal>
