@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
+  
+  <!-- OintmentBase - applies to all child defs -->
   <ThingDef ParentName="AYDrugOintmentBase">
     <defName>AYScarCream</defName>
     <label>Scar Cream</label>
@@ -35,6 +37,9 @@
       </li>
     </comps>
   </ThingDef>
+  
+  
+  <!-- hediff - effects of drug -->
   <HediffDef>
     <defName>AYScarCreamHigh</defName>
     <hediffClass>HediffWithComps</hediffClass>
@@ -68,6 +73,8 @@
       </li>
     </stages>
   </HediffDef>
+  
+  
   <!-- ====== Recipes ====== -->
   <RecipeDef>
     <defName>MakeAYScarCream</defName>
