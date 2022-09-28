@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Apothecary: Scar Cream and Medicines for Medieval Overhaul</name>
+  <packageId>JoeDaly.Scar</packageId>
+  <author>pelador</author>
+  <url>https://github.com/JoeOwnage67/Apothecary-Scar-Cream-and-Medicines-for-Medieval-Overhaul</url>
+  <supportedVersions>
+      <li>1.3</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+     <li>
+      <packageId>DankPyon.Medieval.Overhaul</packageId>
+		  <displayName>Medieval Overhaul</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>
+    
+A portion taken from mlie's mod (https://steamcommunity.com/sharedfiles/filedetails/?id=2195469123/), which is an update of peladors mod
+(https://steamcommunity.com/sharedfiles/filedetails/?id=2000244851).
+    
+I really liked Apothecary but there was just too much content for me. I've taken it down to just Scar Cream, Aloe Cream and Medicines. As well as their associated plants. (Aloe Vera and Yarrow).
+
+All recipes should be craftable at the Medieval Overhaul workbench, and ointments will now use MO's tallow.
+    
+I can create a version of this that doesn't rely on MO if there is interest in that. 
+
+</description>
+</ModMetaData>
