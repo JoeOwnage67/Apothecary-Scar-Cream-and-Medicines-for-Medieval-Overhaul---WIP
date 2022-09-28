@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
+  
+ <!-- Aloe Cream -->
   <ThingDef ParentName="AYDrugOintmentBase">
     <defName>AYAloeCream</defName>
     <label>Aloe Cream</label>
@@ -35,6 +37,8 @@
       </li>
     </comps>
   </ThingDef>
+  
+  <!-- hediff - effects of drug -->
   <HediffDef>
     <defName>AYAloeCreamHigh</defName>
     <hediffClass>HediffWithComps</hediffClass>
@@ -68,6 +72,8 @@
       </li>
     </stages>
   </HediffDef>
+  
+  
   <!-- ====== Recipes ====== -->
   <RecipeDef>
     <defName>MakeAYAloeCream</defName>
@@ -93,7 +99,7 @@
       <li>
         <filter>
           <thingDefs>
-            <li>AYTallow</li>
+            <li>DankPyon_Tallow</li>
           </thingDefs>
         </filter>
         <count>5</count>
@@ -110,7 +116,7 @@
     <fixedIngredientFilter>
       <thingDefs>
         <li>MedicineHerbal</li>
-        <li>AYTallow</li>
+        <li>DankPyon_Tallow/li>
         <li>AYAloeOil</li>
       </thingDefs>
     </fixedIngredientFilter>
@@ -125,6 +131,8 @@
     </skillRequirements>
     <researchPrerequisite>AYOintments</researchPrerequisite>
   </RecipeDef>
+  
+  
   <!-- ===== Bulk Recipe ========= -->
   <RecipeDef>
     <defName>MakeBulkAYAloeCream</defName>
@@ -150,7 +158,7 @@
       <li>
         <filter>
           <thingDefs>
-            <li>AYTallow</li>
+            <li>DankPyon_Tallow</li>
           </thingDefs>
         </filter>
         <count>25</count>
@@ -167,7 +175,7 @@
     <fixedIngredientFilter>
       <thingDefs>
         <li>MedicineHerbal</li>
-        <li>AYTallow</li>
+        <li>DankPyon_Tallow</li>
         <li>AYAloeOil</li>
       </thingDefs>
     </fixedIngredientFilter>
