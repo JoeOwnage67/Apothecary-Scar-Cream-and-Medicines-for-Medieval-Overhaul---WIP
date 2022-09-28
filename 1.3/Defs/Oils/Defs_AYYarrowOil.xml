@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
+  
+<!-- Yarrow Oil -->  
   <ThingDef ParentName="ResourceBase">
     <defName>AYYarrowOil</defName>
     <label>Yarrow Oil</label>
@@ -21,6 +23,9 @@
       <li>AYOils</li>
     </thingCategories>
   </ThingDef>
+  
+  
+  <!-- Recipe -->
   <RecipeDef>
     <defName>MakeAYYarrowOil</defName>
     <label>Make Yarrow Oil</label>
@@ -52,13 +57,19 @@
       <AYYarrowOil>1</AYYarrowOil>
     </products>
     <recipeUsers>
-      <li>AYApothecaryTable</li>
+       <li>DankPyon_Workbench</li>
+      <li>CraftingSpot</li>
+			<li>DrugLab</li>
     </recipeUsers>
     <skillRequirements>
       <Cooking>3</Cooking>
     </skillRequirements>
     <researchPrerequisite>AYExtracts</researchPrerequisite>
   </RecipeDef>
+  
+  
+  
+  <!-- Recipe Bulk -->
   <RecipeDef>
     <defName>MakeBulkAYYarrowOil</defName>
     <label>Make Yarrow Oil in bulk</label>
@@ -90,7 +101,9 @@
       <AYYarrowOil>5</AYYarrowOil>
     </products>
     <recipeUsers>
-      <li>AYApothecaryTable</li>
+       <li>DankPyon_Workbench</li>
+      <li>CraftingSpot</li>
+			<li>DrugLab</li>
     </recipeUsers>
     <skillRequirements>
       <Cooking>3</Cooking>
