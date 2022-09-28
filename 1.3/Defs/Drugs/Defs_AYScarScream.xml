@@ -100,7 +100,7 @@
       <li>
         <filter>
           <thingDefs>
-            <li>AYTallow</li>
+            <li>DankPyon_Tallow</li>
           </thingDefs>
         </filter>
         <count>5</count>
@@ -125,7 +125,7 @@
     <fixedIngredientFilter>
       <thingDefs>
         <li>MedicineHerbal</li>
-        <li>AYTallow</li>
+        <li>DankPyon_Tallow</li>
         <li>AYAloeOil</li>
         <li>AYYarrowOil</li>
       </thingDefs>
@@ -141,6 +141,8 @@
     </skillRequirements>
     <researchPrerequisite>AYOintments</researchPrerequisite>
   </RecipeDef>
+  
+  
   <!-- ===== Bulk Recipe ========= -->
   <RecipeDef>
     <defName>MakeBulkAYScarCream</defName>
@@ -166,7 +168,7 @@
       <li>
         <filter>
           <thingDefs>
-            <li>AYTallow</li>
+            <li>DankPyon_Tallow</li>
           </thingDefs>
         </filter>
         <count>25</count>
@@ -191,9 +193,9 @@
     <fixedIngredientFilter>
       <thingDefs>
         <li>MedicineHerbal</li>
-        <li>AYTallow</li>
         <li>AYAloeOil</li>
         <li>AYYarrowOil</li>
+        <li>DankPyon_Tallow</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
