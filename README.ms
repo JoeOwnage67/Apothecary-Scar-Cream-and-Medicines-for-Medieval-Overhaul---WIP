@@ -1,4 +1,4 @@
-Apothecary: Scar Cream and Medicines for Medieval Overhaul
+Apothecary: Scar Cream and Medicines for Medieval Overhaul (Rimworld)
 
 A portion taken from mlie's mod (https://steamcommunity.com/sharedfiles/filedetails/?id=2195469123/),
 which is an update of peladors mod (https://steamcommunity.com/sharedfiles/filedetails/?id=2000244851).
