@@ -6,5 +6,7 @@ which is an update of peladors mod (https://steamcommunity.com/sharedfiles/filed
 I really liked Apothecary but there was just too much stuff for me. I've taken it down to just Scar Cream, Aloe Cream and Medicines. As well as their associated plants. (Aloe Vera and Yarrow).
 
 All recipes should be craftable at the Medieval Overhaul workbench, and ointments will now use MO's tallow.
+
+Yarrow and Aloe Vera will now spawn in Medieval Overhaul Darkforest and AncientForest biomes. Thank you to Archie for this.
     
 I can create a version of this that doesn't rely on MO if there is interest in that. Probably won't play nice with mlie's version of Apothecary. I have marked them as incompatible.
