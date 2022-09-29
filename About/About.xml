@@ -16,7 +16,7 @@
     </li>
      <li>
       <packageId>DankPyon.Medieval.Overhaul</packageId>
-		  <displayName>Medieval Overhaul</displayName>
+      <displayName>Medieval Overhaul</displayName>
     </li>
   </modDependencies>
   <loadAfter>
