@@ -7,6 +7,6 @@ I really liked Apothecary but there was just too much stuff for me. I've taken i
 
 All recipes should be craftable at the Medieval Overhaul workbench, and ointments will now use MO's tallow.
 
-Aloe Vera and Yarrow will now spawn in Medieval Overhaul Darkforest and AncientForest biomes. (Borrowed from Archie's patch - thank you)
+Aloe Vera and Yarrow will now spawn in Medieval Overhaul Darkforest and AncientForest biomes. (Borrowed from Archie's patch - https://steamcommunity.com/sharedfiles/filedetails/?id=2579774726)
     
 This probably won't play nice with mlie's version of Apothecary as they use the same code. I have marked them as incompatible.
