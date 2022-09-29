@@ -21,6 +21,7 @@
   </modDependencies>
   <loadAfter>
     <li>brrainz.harmony</li>
+    <li>DankPyon.Medieval.Overhaul</li>
   </loadAfter>
   <incompatibleWith>
 	  <li>Mlie.Apothecary</li>	    
