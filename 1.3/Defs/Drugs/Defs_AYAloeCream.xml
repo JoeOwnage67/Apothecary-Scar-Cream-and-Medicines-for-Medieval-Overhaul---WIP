@@ -116,7 +116,7 @@
     <fixedIngredientFilter>
       <thingDefs>
         <li>MedicineHerbal</li>
-        <li>DankPyon_Tallow/li>
+        <li>DankPyon_Tallow</li>
         <li>AYAloeOil</li>
       </thingDefs>
     </fixedIngredientFilter>
@@ -126,7 +126,7 @@
     <recipeUsers>
        <li>DankPyon_Workbench</li>
       <li>CraftingSpot</li>
-			<li>DrugLab</li>
+	<li>DrugLab</li>
     </recipeUsers>
     <skillRequirements>
       <Intellectual>4</Intellectual>
