@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Apothecary: Scar Cream and Medicines for Medieval Overhaul</name>
-  <packageId>JoeDaly.Scar</packageId>
-  <author>pelador/mlie</author>
-  <url>https://github.com/JoeOwnage67/Apothecary-Scar-Cream-and-Medicines-for-Medieval-Overhaul</url>
+  <author>pelador</author>
   <supportedVersions>
       <li>1.3</li>
   </supportedVersions>
+  <packageId>JoeDaly.Scar</packageId>
+  <url>https://github.com/JoeOwnage67/Apothecary-Scar-Cream-and-Medicines-for-Medieval-Overhaul</url>
+ 
+	
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>
